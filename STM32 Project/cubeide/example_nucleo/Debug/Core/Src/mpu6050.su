@@ -1,0 +1,6 @@
+mpu6050.c:3:19:MPU6050_ReadRegister	40	static
+mpu6050.c:7:19:MPU6050_ReadRegisters	40	static
+mpu6050.c:11:19:MPU6050_WriteRegister	40	static
+mpu6050.c:16:9:MPU6050_Initialise	24	static
+mpu6050.c:59:19:MPU6050_ReadTemperature	32	static
+mpu6050.c:69:19:MPU6050_ReadAccelerations	56	static
